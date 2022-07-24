@@ -24,6 +24,8 @@
 
 ## 使用说明
 
+[B站视频教程](https://www.bilibili.com/video/BV1VU4y1i7hy/)
+
 使用python3环境
 打开命令行，安装所需依赖
 ```shell
