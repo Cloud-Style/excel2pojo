@@ -20,7 +20,7 @@
 
 ## 效果演示
 
-![](https://github.com/1320162752/drawio/blob/master/pic/excel2pojo.gif?raw=true)
+![](https://gitee.com/TobuMJ/drawio/raw/master/pic/excel2pojo%E7%A4%BA%E4%BE%8B.gif)
 
 ## 使用说明
 
@@ -255,4 +255,4 @@ common/ - 公共的类
 
 ## 流程描述
 
-![](https://github.com/1320162752/drawio/blob/master/pic/excel2pojo%E5%9B%BE%E7%89%87.png?raw=true)
+![](https://gitee.com/TobuMJ/drawio/raw/master/pic/excel2pojo%E5%9B%BE%E7%89%87.png)
